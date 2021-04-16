@@ -1,0 +1,80 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "makes the background panorama locations from the holy roman empire realm\nhttps://discord.gg/xRZ59J4 if you would like to join the SMP realm these images were taken on",
+        "name": "HRE panoramas",
+        "uuid": "4d9b58c4-9b8a-11eb-a8b3-0242ac130003",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "min_engine_version": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        5
+    ],
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "4d9b5b08-9b8a-11eb-a8b3-0242ac130003",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "HRE1 fins base",
+            "name": "win epic fin's base\nWorld:\nHRE season 1",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "HRE1 fins industrial district",
+            "name": "win epic fin's industrial district\nWorld:\nHRE season 1",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "HRE1 shopping district",
+            "name": "The shopping district\nWorld:\nHRE season 1",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "HRE1 Godfarthers base",
+            "name": "Godfarthers base\nWorld:\nHRE season 1",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "HRE2 ShainaCross's base",
+            "name": "ShainaCross's base\nWorld:\nHRE season 2",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "HRE2 fins storage room",
+            "name": "win epic fins storage room\nWorld:\nHRE season 2",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "HRE2 thederpmeister6's base",
+            "name": "thederpmeister6's base\nWorld:\nHRE season 2",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "HRE2 shoping district",
+            "name": "The shopping district\nWorld:\nHRE season 2",
+            "memory_tier": 1
+        }
+    ]
+}
